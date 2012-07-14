@@ -6,6 +6,10 @@ import org.bukkit.plugin.PluginDescriptionFile;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class Falldamage extends JavaPlugin {
+	public class FalldamageEntitylistener {
+
+	}
+
 	public static Falldamage plugin;
 	public final Logger logger = Logger.getLogger("Minecraft");
 	
